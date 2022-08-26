@@ -2,7 +2,7 @@
 title: Ashwin's Portfolio
 description: A website about Ashwin's major projects and works.
 baseurl: "/about" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://iamunr4v31.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ashwin Sankar
